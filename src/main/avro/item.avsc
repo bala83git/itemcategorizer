@@ -1,0 +1,11 @@
+{"namespace": "com.ikea.cataloguemanagement.itemcategorizer.avro",
+
+  "type": "record",
+  "name": "ItemVO",
+
+    "fields": [
+
+        {"name": "itemNo", "type": "string"}
+  
+    ]
+}
